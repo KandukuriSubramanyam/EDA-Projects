@@ -1,0 +1,1 @@
+I had performed Exploratory Data Analysis (EDA) on datasets to understand the patterns, relationships (features to features and feature to target) available with in the dataset with the use of Jupyter notebbok as a Python IDE, libraries including pandas, matplotlib, seaborn and numpy (used least).
